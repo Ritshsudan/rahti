@@ -1,0 +1,20 @@
+{
+  "name": "أخبار وأسعار السودان",
+  "short_name": "السودان",
+  "start_url": "/rahti/",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#006C35",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/006C35/FFFFFF?text=SD",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/006C35/FFFFFF?text=SD",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
